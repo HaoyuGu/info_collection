@@ -1,0 +1,17 @@
+.header{
+    height: 48px;
+    background-color: #61dafb;
+    font-size: 1.2rem;
+    display: grid;
+    place-items: center;
+}
+
+.main .pickArea{
+    margin: 3vh 3vw;
+}
+
+.pickArea .pickList{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
